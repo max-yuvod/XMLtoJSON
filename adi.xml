@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ADI
+  SYSTEM 'ADI.DTD'>
+<ADI>
+    <Metadata>
+        <AMS Asset_Class="package" Asset_ID="PACK0000000000138328" Asset_Name="AMC_Cuidado_con_Package" Creation_Date="2022-05-23" Description="ColsecorCuidado_con_que_deseas_HD_STR" Product="SVOD" Provider="amc" Provider_ID="amcnetworks.com" Version_Major="1" Version_Minor="0"/>
+        <App_Data App="SVOD" Name="Metadata_Spec_Version" Value="CableLabsVOD1.1"/>
+    </Metadata>
+    <Asset>
+        <Metadata>
+            <AMS Asset_Class="title" Asset_ID="AMC10000000000138328" Asset_Name="AMC_Cuidado_con_Title" Creation_Date="2022-05-23" Description="ColsecorCuidado_con_que_deseas_HD_STR" Product="SVOD" Provider="amc" Provider_ID="amcnetworks.com" Version_Major="1" Version_Minor="0"/>
+            <App_Data App="SVOD" Name="Actors_Display" Value="Nick Jonas,Kiki Harris,David Sherrill"/>
+            <App_Data App="SVOD" Name="Actor" Value="Nick Jonas"/>
+            <App_Data App="SVOD" Name="Closed_Captioning" Value="N"/>
+            <App_Data App="SVOD" Name="Billing_ID" Value="12345"/>
+            <App_Data App="SVOD" Name="Maximum_Viewing_Length" Value="03:00:00"/>
+            <App_Data App="SVOD" Name="Run_Time" Value="01:30:15"/>
+            <App_Data App="SVOD" Name="Display_Run_Time" Value="01:30"/>
+            <App_Data App="SVOD" Name="Rating" Value="PG-13"/>
+            <App_Data App="SVOD" Name="Genre" Value="Drama"/>
+            <App_Data App="SVOD" Name="Category" Value="Películas/Drama"/>
+            <App_Data App="SVOD" Name="Category" Value="Canales/AMC"/>
+            <App_Data App="SVOD" Name="Licensing_Window_Start" Value="2022-06-03T00:00:00"/>
+            <App_Data App="SVOD" Name="Licensing_Window_End" Value="2022-09-01T23:59:00"/>
+            <App_Data App="SVOD" Name="Provider_QA_Contact" Value="vod"/>
+            <App_Data App="SVOD" Name="Title_Brief" Value="Cuidado Con Lo "/>
+            <App_Data App="SVOD" Name="Title" Value="Cuidado Con Lo Que Deseas"/>
+            <App_Data App="SVOD" Name="Summary_Short" Value="Un hombre obtiene más de lo que esperaba después de entablar una aventura con la esposa de un banquero de inversiones. Pronto, una muerte sospechosa y una póliza de seguro de vida, lo envuelven en un escándalo"/>
+            <App_Data App="SVOD" Name="Summary_Long" Value="Un hombre obtiene más de lo que esperaba después de entablar una aventura con la esposa de un banquero de inversiones. Pronto, una muerte sospechosa y una póliza de seguro de vida, lo envuelven en un escándalo"/>
+            <App_Data App="SVOD" Name="Summary_Medium" Value="Un hombre obtiene más de lo que esperaba después de entablar una aventura con la esposa de un banquero de inversiones. Pronto, una muerte sospechosa y una póliza de seguro de vida, lo envuelven en un escándalo"/>
+            <App_Data App="SVOD" Name="Year" Value="2014"/>
+            <App_Data App="SVOD" Name="Director" Value="Elizabeth Allen, Rosenbaum"/>
+            <App_Data App="SVOD" Name="Studio" Value="AMC"/>
+            <App_Data App="SVOD" Name="Studio_Name" Value="AMC"/>
+            <App_Data App="SVOD" Name="Distributor_Name" Value="Colsecor.com"/>
+            <App_Data App="SVOD" Name="Preview_Period" Value="0"/>
+            <App_Data App="SVOD" Name="Contract_Name" Value="amc"/>
+            <App_Data App="SVOD" Name="Type" Value="title"/>
+        </Metadata>
+        <Asset>
+            <Metadata>
+                <AMS Asset_Class="movie" Asset_ID="MOVI0000000000138328" Asset_Name="AMC_Cuidado_con_Movie" Creation_Date="2022-05-23" Description="ColsecorCuidado_con_que_deseas_HD_STR" Product="SVOD" Provider="amc" Provider_ID="amcnetworks.com" Version_Major="1" Version_Minor="0"/>
+                <App_Data App="SVOD" Name="Audio_Type" Value="Stereo"/>
+                <App_Data App="SVOD" Name="Screen_Format" Value="widescreen"/>
+                <App_Data App="SVOD" Name="Content_CheckSum" Value="766de8fea20469fd5cde260a31b372b9"/>
+                <App_Data App="SVOD" Name="Content_FileSize" Value="5091755904"/>
+                <App_Data App="SVOD" Name="Languages" Value="es"/>
+                <App_Data App="SVOD" Name="Subtitle_Languages" Value="es"/>
+                <App_Data App="SVOD" Name="HDContent" Value="Y"/>
+                <App_Data App="SVOD" Name="Encryption" Value="Y"/>
+                <App_Data App="SVOD" Name="Encryption_Type" Value="Verimatrix"/>
+                <App_Data App="SVOD" Name="Content_ID" Value="HLSAMAMMA138328"/>
+                <App_Data App="SVOD" Name="Conax_Product_ID" Value="HLSAMAMMA138328"/>
+                <App_Data App="SVOD" Name="Protocol_Info" Value="HLS"/>
+				<App_Data App="SVOD" Name="Tag" Value="v5"/>
+                <App_Data App="SVOD" Name="MIME_Type" Value="application/vnd.apple.mpegurl"/>
+                <App_Data App="SVOD" Name="Viewing_Can_Be_Resumed" Value="Y"/>
+                <App_Data App="SVOD" Name="Type" Value="movie"/>
+            </Metadata>
+            <Content Value="http://cdn.sensa.com.ar/vod/eds/AM/AM_AM_MA138328_05_2022/_/vod_cld/AM_AM_MA138328_05_2022.m3u8"/>
+        </Asset>
+		<Asset>
+            <Metadata>
+                <AMS Asset_Class="movie" Asset_ID="HLSV0000000000138328" Asset_Name="AMC_Cuidado_con_Movie" Creation_Date="2022-05-23" Description="ColsecorCuidado_con_que_deseas_HD_STR" Product="SVOD" Provider="amc" Provider_ID="amcnetworks.com" Version_Major="1" Version_Minor="0"/>
+                <App_Data App="SVOD" Name="Audio_Type" Value="Stereo"/>
+                <App_Data App="SVOD" Name="Screen_Format" Value="widescreen"/>
+                <App_Data App="SVOD" Name="Content_CheckSum" Value="766de8fea20469fd5cde260a31b372b9"/>
+                <App_Data App="SVOD" Name="Content_FileSize" Value="5091755904"/>
+                <App_Data App="SVOD" Name="Languages" Value="es"/>
+                <App_Data App="SVOD" Name="Subtitle_Languages" Value="es"/>
+                <App_Data App="SVOD" Name="HDContent" Value="Y"/>
+                <App_Data App="SVOD" Name="Encryption" Value="Y"/>
+                <App_Data App="SVOD" Name="Encryption_Type" Value="Verimatrix"/>
+                <App_Data App="SVOD" Name="Content_ID" Value="HLSAMAMMA138328"/>
+                <App_Data App="SVOD" Name="Protocol_Info" Value="HLS"/>
+				<App_Data App="SVOD" Name="Tag" Value="v3"/>
+                <App_Data App="SVOD" Name="MIME_Type" Value="application/vnd.apple.mpegurl"/>
+                <App_Data App="SVOD" Name="Viewing_Can_Be_Resumed" Value="Y"/>
+                <App_Data App="SVOD" Name="Type" Value="movie"/>
+            </Metadata>
+            <Content Value="AM_AM_MA138328_05_2022.m3u8"/>
+        </Asset>
+        <Asset>
+            <Metadata>
+                <AMS Asset_Class="movie" Asset_ID="DASH0000000000138328" Asset_Name="AMC_Cuidado_con_Movie" Creation_Date="2022-05-23" Description="ColsecorCuidado_con_que_deseas_HD_STR" Product="SVOD" Provider="amc" Provider_ID="amcnetworks.com" Version_Major="1" Version_Minor="0"/>
+                <App_Data App="SVOD" Name="Audio_Type" Value="Stereo"/>
+                <App_Data App="SVOD" Name="Screen_Format" Value="widescreen"/>
+                <App_Data App="SVOD" Name="Content_CheckSum" Value="766de8fea20469fd5cde260a31b372b9"/>
+                <App_Data App="SVOD" Name="Content_FileSize" Value="5091755904"/>
+                <App_Data App="SVOD" Name="Languages" Value="es"/>
+                <App_Data App="SVOD" Name="Subtitle_Languages" Value="es"/>
+                <App_Data App="SVOD" Name="HDContent" Value="Y"/>
+                <App_Data App="SVOD" Name="Encryption" Value="Y"/>
+                <App_Data App="SVOD" Name="Encryption_Type" Value="Widevine"/>
+                <App_Data App="SVOD" Name="Content_ID" Value="DASHAMAMMA138328"/>
+                <App_Data App="SVOD" Name="Protocol_Info" Value="DASH"/>
+                <App_Data App="SVOD" Name="MIME_Type" Value="application/dash+xml"/>
+                <App_Data App="SVOD" Name="Viewing_Can_Be_Resumed" Value="Y"/>
+                <App_Data App="SVOD" Name="Type" Value="movie"/>
+            </Metadata>
+            <Content Value="AM_AM_MA138328_05_2022.mpd"/>
+        </Asset>
+        <Asset>
+            <Metadata>
+                <AMS Asset_Class="poster" Asset_ID="POST0000000000138328" Asset_Name="AMC_Cuidado_con_Poster" Creation_Date="2022-05-23" Description="ColsecorCuidado_con_que_deseas_HD_STR" Product="SVOD" Provider="amc" Provider_ID="amcnetworks.com" Version_Major="1" Version_Minor="0"/>
+                <App_Data App="SVOD" Name="Image_Aspect_Ratio" Value="250x361"/>
+                <App_Data App="SVOD" Name="Content_FileSize" Value="13676"/>
+                <App_Data App="SVOD" Name="Content_CheckSum" Value="0191235d322e88b6959df0c6e81d6152"/>
+                <App_Data App="SVOD" Name="Type" Value="poster"/>
+            </Metadata>
+            <Content Value="Poster_Movie.jpg"/>
+        </Asset>
+    </Asset>
+</ADI>
